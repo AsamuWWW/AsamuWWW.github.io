@@ -6,6 +6,7 @@ Nice to meet you !
 
 void sort(Student a[], int n)
 {
+
 	double temp;
 	int max;
 	for (int i = 0; i < n - 1; i++)
