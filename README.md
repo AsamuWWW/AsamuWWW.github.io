@@ -17,8 +17,7 @@ void sort(Student a[], int n)
 			{
 				max = j;
 			}
-			
-				 Student temp = a[i];
+				Student temp = a[i];
 				a[i] = a[max];
 				a[max] = temp;	
 		}
